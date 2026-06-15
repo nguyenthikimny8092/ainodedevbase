@@ -1,0 +1,8 @@
+# app-ads.txt for AINODE DEVBASE
+# This file is used by advertising platforms to verify publisher authenticity
+# Last updated: January 2026
+
+# Add your ad network publisher IDs below
+# Example:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+# applovin.com, XXXXXXXXX, DIRECT, XXXXXXXXX
